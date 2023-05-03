@@ -1,0 +1,58 @@
+*{
+margin: 0;
+}
+body{
+	 background-color:rgb(46, 97, 74);
+	height: 100%;
+	word-wrap: break-word         ;
+}
+.contact{
+	text-align: center;
+	top: 200px;
+	position: relative;
+}
+#dialogoverlay{
+	text-align: center;
+	top: 230px;
+	position: relative;
+}
+.frea h1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: rgb(235, 239, 230);
+	margin-top: -90px;
+}
+.flag {
+	display: flex;
+	left: 480px;
+	position: relative;
+	width: 260px;
+	height: 35px;
+	border-radius: 20px;
+	background: rgb(213, 210, 205) ;
+    outline: none;
+	
+
+}
+.button{
+	height: 35px;
+width: 82px;
+	font-size: 15px;
+	background: linear-gradient(to right,white,rgba(0, 54, 215, 0.11));
+	border: none;
+	outline: none;
+	position: relative;
+    border-radius: 20px;
+	left: 70px;
+ }
+ 
+#txtNumber{
+	left: 20px;
+	top: 10px;
+	font-size: 15px;
+	border: 2px;
+	outline: none;
+	background-color: rgb(213, 210, 205);
+	position: relative;
+    border-radius: 20px;
+    
+} 
